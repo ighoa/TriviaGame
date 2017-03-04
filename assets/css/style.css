@@ -1,0 +1,14 @@
+body {
+	background-image: url("../images/triviaimage.jpg");
+	text-align: center;
+}
+
+h1 {
+	color: blue;
+}
+
+.container {
+	width: 60%;
+	margin-left: 350px;
+	background-color: rgb(250,230,0); 
+}
